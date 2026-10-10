@@ -1,4 +1,9 @@
-{
+{ 
+  "publisher": "shubham",
+  "repository": {
+    "type": "git",
+    "url": "hhttps://github.com/Shubhamsahu82299/my-copilot.git"
+  },
   "name": "my-copilot",
   "displayName": "my-copilot",
   "description": "AI Coding and Debugging Assistant",
